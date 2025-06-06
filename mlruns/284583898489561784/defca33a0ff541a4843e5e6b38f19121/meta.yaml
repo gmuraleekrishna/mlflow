@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/defca33a0ff541a4843e5e6b38f19121/artifacts
+end_time: 1749180194403
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: defca33a0ff541a4843e5e6b38f19121
+run_name: aged-kite-827
+run_uuid: defca33a0ff541a4843e5e6b38f19121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180194320
+status: 3
+tags: []
+user_id: thor

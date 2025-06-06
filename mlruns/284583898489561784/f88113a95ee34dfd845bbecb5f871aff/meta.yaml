@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f88113a95ee34dfd845bbecb5f871aff/artifacts
+end_time: 1749180208969
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f88113a95ee34dfd845bbecb5f871aff
+run_name: intrigued-bass-825
+run_uuid: f88113a95ee34dfd845bbecb5f871aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180208878
+status: 3
+tags: []
+user_id: thor

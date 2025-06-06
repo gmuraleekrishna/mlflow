@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d4fa1bc4672f471bbc72d4bf9bb6720b/artifacts
+end_time: 1749180180175
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d4fa1bc4672f471bbc72d4bf9bb6720b
+run_name: charming-mare-617
+run_uuid: d4fa1bc4672f471bbc72d4bf9bb6720b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180180105
+status: 3
+tags: []
+user_id: thor

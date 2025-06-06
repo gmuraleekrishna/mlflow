@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/455dc6fbbfd142399a6fd0efdf5c86d4/artifacts
+end_time: 1749180203929
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 455dc6fbbfd142399a6fd0efdf5c86d4
+run_name: luxuriant-shoat-49
+run_uuid: 455dc6fbbfd142399a6fd0efdf5c86d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180203802
+status: 3
+tags: []
+user_id: thor

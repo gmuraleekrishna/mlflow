@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a7cea725d38f4102a79db946616bc9ff/artifacts
+end_time: 1749180198320
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a7cea725d38f4102a79db946616bc9ff
+run_name: placid-finch-547
+run_uuid: a7cea725d38f4102a79db946616bc9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180198235
+status: 3
+tags: []
+user_id: thor

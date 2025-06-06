@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c090d4b7dea847068576c3878868bc1f/artifacts
+end_time: 1749180202024
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c090d4b7dea847068576c3878868bc1f
+run_name: secretive-bird-740
+run_uuid: c090d4b7dea847068576c3878868bc1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180201938
+status: 3
+tags: []
+user_id: thor

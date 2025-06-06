@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/52b91d0368404828b05e404b571591cb/artifacts
+end_time: 1749180220186
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 52b91d0368404828b05e404b571591cb
+run_name: treasured-shrimp-637
+run_uuid: 52b91d0368404828b05e404b571591cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180220008
+status: 3
+tags: []
+user_id: thor

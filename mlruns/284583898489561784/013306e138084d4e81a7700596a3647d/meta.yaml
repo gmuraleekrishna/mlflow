@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/013306e138084d4e81a7700596a3647d/artifacts
+end_time: 1749180216972
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 013306e138084d4e81a7700596a3647d
+run_name: polite-shrew-142
+run_uuid: 013306e138084d4e81a7700596a3647d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180216805
+status: 3
+tags: []
+user_id: thor

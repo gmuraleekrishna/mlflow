@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/64027dcf54bf4d6fadeeeac8de3dbace/artifacts
+end_time: 1749180191370
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 64027dcf54bf4d6fadeeeac8de3dbace
+run_name: merciful-shrimp-40
+run_uuid: 64027dcf54bf4d6fadeeeac8de3dbace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180191267
+status: 3
+tags: []
+user_id: thor

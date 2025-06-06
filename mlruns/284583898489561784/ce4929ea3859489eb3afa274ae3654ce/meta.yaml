@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ce4929ea3859489eb3afa274ae3654ce/artifacts
+end_time: 1749180213726
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ce4929ea3859489eb3afa274ae3654ce
+run_name: nervous-fish-155
+run_uuid: ce4929ea3859489eb3afa274ae3654ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180213605
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/923831c7b30c4bbf920f07eaeded61d0/artifacts
+end_time: 1749180192090
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 923831c7b30c4bbf920f07eaeded61d0
+run_name: bustling-eel-513
+run_uuid: 923831c7b30c4bbf920f07eaeded61d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180192008
+status: 3
+tags: []
+user_id: thor

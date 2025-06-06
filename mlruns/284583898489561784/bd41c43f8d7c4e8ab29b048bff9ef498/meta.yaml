@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/bd41c43f8d7c4e8ab29b048bff9ef498/artifacts
+end_time: 1749180230147
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: bd41c43f8d7c4e8ab29b048bff9ef498
+run_name: tasteful-sponge-578
+run_uuid: bd41c43f8d7c4e8ab29b048bff9ef498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180230035
+status: 3
+tags: []
+user_id: thor

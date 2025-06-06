@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3f904cb98570447a811ce2985ca50715/artifacts
+end_time: 1749180198218
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3f904cb98570447a811ce2985ca50715
+run_name: youthful-mare-388
+run_uuid: 3f904cb98570447a811ce2985ca50715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180198001
+status: 3
+tags: []
+user_id: thor

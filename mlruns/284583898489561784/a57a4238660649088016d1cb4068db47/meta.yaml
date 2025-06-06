@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a57a4238660649088016d1cb4068db47/artifacts
+end_time: 1749180196441
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a57a4238660649088016d1cb4068db47
+run_name: debonair-zebra-541
+run_uuid: a57a4238660649088016d1cb4068db47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180196355
+status: 3
+tags: []
+user_id: thor

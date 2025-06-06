@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/872d21742bf74d21a3bfb62896a0432d/artifacts
+end_time: 1749180216771
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 872d21742bf74d21a3bfb62896a0432d
+run_name: aged-yak-141
+run_uuid: 872d21742bf74d21a3bfb62896a0432d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180216538
+status: 3
+tags: []
+user_id: thor

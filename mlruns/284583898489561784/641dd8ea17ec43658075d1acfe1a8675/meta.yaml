@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/641dd8ea17ec43658075d1acfe1a8675/artifacts
+end_time: 1749180189320
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 641dd8ea17ec43658075d1acfe1a8675
+run_name: funny-hen-402
+run_uuid: 641dd8ea17ec43658075d1acfe1a8675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180189237
+status: 3
+tags: []
+user_id: thor

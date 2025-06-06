@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/7a50aca9977041208b6270a51e5e8af2/artifacts
+end_time: 1749180222548
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 7a50aca9977041208b6270a51e5e8af2
+run_name: legendary-elk-728
+run_uuid: 7a50aca9977041208b6270a51e5e8af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180222440
+status: 3
+tags: []
+user_id: thor

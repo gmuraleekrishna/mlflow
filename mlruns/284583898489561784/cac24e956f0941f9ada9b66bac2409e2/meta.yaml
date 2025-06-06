@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cac24e956f0941f9ada9b66bac2409e2/artifacts
+end_time: 1749180225000
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cac24e956f0941f9ada9b66bac2409e2
+run_name: powerful-gnat-701
+run_uuid: cac24e956f0941f9ada9b66bac2409e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180224894
+status: 3
+tags: []
+user_id: thor

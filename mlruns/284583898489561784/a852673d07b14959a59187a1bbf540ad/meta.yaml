@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a852673d07b14959a59187a1bbf540ad/artifacts
+end_time: 1749180220385
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a852673d07b14959a59187a1bbf540ad
+run_name: mercurial-fish-756
+run_uuid: a852673d07b14959a59187a1bbf540ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180220214
+status: 3
+tags: []
+user_id: thor

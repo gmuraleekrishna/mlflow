@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/83b1b73520434e88a69ab1111af38fb2/artifacts
+end_time: 1749180214463
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 83b1b73520434e88a69ab1111af38fb2
+run_name: victorious-quail-805
+run_uuid: 83b1b73520434e88a69ab1111af38fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180214366
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0c325d6ee8b24dfba163f7aaa41e2362/artifacts
+end_time: 1749180222808
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0c325d6ee8b24dfba163f7aaa41e2362
+run_name: selective-bat-887
+run_uuid: 0c325d6ee8b24dfba163f7aaa41e2362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180222696
+status: 3
+tags: []
+user_id: thor

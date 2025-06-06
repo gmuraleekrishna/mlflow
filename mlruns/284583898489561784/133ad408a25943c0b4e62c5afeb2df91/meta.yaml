@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/133ad408a25943c0b4e62c5afeb2df91/artifacts
+end_time: 1749180191471
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 133ad408a25943c0b4e62c5afeb2df91
+run_name: exultant-croc-300
+run_uuid: 133ad408a25943c0b4e62c5afeb2df91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180191388
+status: 3
+tags: []
+user_id: thor

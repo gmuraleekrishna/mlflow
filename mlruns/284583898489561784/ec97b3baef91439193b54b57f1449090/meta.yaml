@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ec97b3baef91439193b54b57f1449090/artifacts
+end_time: 1749180194098
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ec97b3baef91439193b54b57f1449090
+run_name: receptive-ox-534
+run_uuid: ec97b3baef91439193b54b57f1449090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180194020
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/76656a76960e40b3b09c35367fa29fe3/artifacts
+end_time: 1749180222676
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 76656a76960e40b3b09c35367fa29fe3
+run_name: amazing-cub-959
+run_uuid: 76656a76960e40b3b09c35367fa29fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180222566
+status: 3
+tags: []
+user_id: thor

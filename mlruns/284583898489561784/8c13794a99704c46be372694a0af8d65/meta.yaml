@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/8c13794a99704c46be372694a0af8d65/artifacts
+end_time: 1749180223051
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 8c13794a99704c46be372694a0af8d65
+run_name: salty-jay-507
+run_uuid: 8c13794a99704c46be372694a0af8d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180222948
+status: 3
+tags: []
+user_id: thor

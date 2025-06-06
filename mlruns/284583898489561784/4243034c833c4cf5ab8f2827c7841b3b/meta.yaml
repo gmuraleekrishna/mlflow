@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/4243034c833c4cf5ab8f2827c7841b3b/artifacts
+end_time: 1749180182290
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 4243034c833c4cf5ab8f2827c7841b3b
+run_name: victorious-snail-396
+run_uuid: 4243034c833c4cf5ab8f2827c7841b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180182189
+status: 3
+tags: []
+user_id: thor

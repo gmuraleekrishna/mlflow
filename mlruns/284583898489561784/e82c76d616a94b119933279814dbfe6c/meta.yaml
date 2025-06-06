@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e82c76d616a94b119933279814dbfe6c/artifacts
+end_time: 1749180177165
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e82c76d616a94b119933279814dbfe6c
+run_name: dazzling-finch-836
+run_uuid: e82c76d616a94b119933279814dbfe6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180177054
+status: 3
+tags: []
+user_id: thor

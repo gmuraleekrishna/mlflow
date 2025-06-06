@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/fa67c341177d4bda81516b4386d883fb/artifacts
+end_time: 1749180199301
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: fa67c341177d4bda81516b4386d883fb
+run_name: sincere-bear-768
+run_uuid: fa67c341177d4bda81516b4386d883fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180199220
+status: 3
+tags: []
+user_id: thor

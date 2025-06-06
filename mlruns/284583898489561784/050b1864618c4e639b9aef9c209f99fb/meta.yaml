@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/050b1864618c4e639b9aef9c209f99fb/artifacts
+end_time: 1749180197660
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 050b1864618c4e639b9aef9c209f99fb
+run_name: bittersweet-wren-195
+run_uuid: 050b1864618c4e639b9aef9c209f99fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180197572
+status: 3
+tags: []
+user_id: thor

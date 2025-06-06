@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/557afdd7c29f45f59e16048d04fb0363/artifacts
+end_time: 1749180199202
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 557afdd7c29f45f59e16048d04fb0363
+run_name: magnificent-vole-466
+run_uuid: 557afdd7c29f45f59e16048d04fb0363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180199091
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cefdfe696f7f40f8851240d62577a0b1/artifacts
+end_time: 1749180190772
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cefdfe696f7f40f8851240d62577a0b1
+run_name: enchanting-mule-493
+run_uuid: cefdfe696f7f40f8851240d62577a0b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180190682
+status: 3
+tags: []
+user_id: thor

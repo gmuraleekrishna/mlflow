@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/55d0e735f9204fd8a3d753de35074f6a/artifacts
+end_time: 1749180207479
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 55d0e735f9204fd8a3d753de35074f6a
+run_name: gaudy-wolf-881
+run_uuid: 55d0e735f9204fd8a3d753de35074f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180207362
+status: 3
+tags: []
+user_id: thor

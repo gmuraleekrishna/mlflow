@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0c8ec8384b4d4a8bb931f347b116223e/artifacts
+end_time: 1749180190245
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0c8ec8384b4d4a8bb931f347b116223e
+run_name: kindly-hawk-128
+run_uuid: 0c8ec8384b4d4a8bb931f347b116223e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180190163
+status: 3
+tags: []
+user_id: thor

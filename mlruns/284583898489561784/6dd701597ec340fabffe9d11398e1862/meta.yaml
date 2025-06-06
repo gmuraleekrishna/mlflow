@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6dd701597ec340fabffe9d11398e1862/artifacts
+end_time: 1749180214341
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6dd701597ec340fabffe9d11398e1862
+run_name: smiling-mare-580
+run_uuid: 6dd701597ec340fabffe9d11398e1862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180214232
+status: 3
+tags: []
+user_id: thor

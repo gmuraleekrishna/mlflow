@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6a9902d4aee34f539d612ad2e6e91039/artifacts
+end_time: 1749180195695
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6a9902d4aee34f539d612ad2e6e91039
+run_name: abrasive-stork-54
+run_uuid: 6a9902d4aee34f539d612ad2e6e91039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180195595
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f40b888f93eb4378945eac89b24ec929/artifacts
+end_time: 1749180211459
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f40b888f93eb4378945eac89b24ec929
+run_name: salty-moose-573
+run_uuid: f40b888f93eb4378945eac89b24ec929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180211229
+status: 3
+tags: []
+user_id: thor

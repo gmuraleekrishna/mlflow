@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/948907f61afa4008b0958874c84e3921/artifacts
+end_time: 1749180189121
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 948907f61afa4008b0958874c84e3921
+run_name: nebulous-gnat-608
+run_uuid: 948907f61afa4008b0958874c84e3921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180189038
+status: 3
+tags: []
+user_id: thor

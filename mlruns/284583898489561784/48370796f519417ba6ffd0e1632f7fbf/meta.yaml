@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/48370796f519417ba6ffd0e1632f7fbf/artifacts
+end_time: 1749180194302
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 48370796f519417ba6ffd0e1632f7fbf
+run_name: nosy-pig-493
+run_uuid: 48370796f519417ba6ffd0e1632f7fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180194220
+status: 3
+tags: []
+user_id: thor

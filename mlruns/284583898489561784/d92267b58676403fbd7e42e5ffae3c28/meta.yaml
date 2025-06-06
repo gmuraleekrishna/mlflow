@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d92267b58676403fbd7e42e5ffae3c28/artifacts
+end_time: 1749180204888
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d92267b58676403fbd7e42e5ffae3c28
+run_name: nimble-lamb-552
+run_uuid: d92267b58676403fbd7e42e5ffae3c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180204790
+status: 3
+tags: []
+user_id: thor

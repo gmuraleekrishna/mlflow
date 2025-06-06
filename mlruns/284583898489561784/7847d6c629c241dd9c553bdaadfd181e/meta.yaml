@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/7847d6c629c241dd9c553bdaadfd181e/artifacts
+end_time: 1749180183372
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 7847d6c629c241dd9c553bdaadfd181e
+run_name: bouncy-ant-91
+run_uuid: 7847d6c629c241dd9c553bdaadfd181e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180183293
+status: 3
+tags: []
+user_id: thor

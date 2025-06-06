@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/695e27da176c4566bb79ad1ac861db7a/artifacts
+end_time: 1749180174705
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 695e27da176c4566bb79ad1ac861db7a
+run_name: unique-toad-162
+run_uuid: 695e27da176c4566bb79ad1ac861db7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180174624
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/aed4352e5f1048f89470260df73c1f5f/artifacts
+end_time: 1749180226890
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: aed4352e5f1048f89470260df73c1f5f
+run_name: upset-penguin-168
+run_uuid: aed4352e5f1048f89470260df73c1f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180226805
+status: 3
+tags: []
+user_id: thor

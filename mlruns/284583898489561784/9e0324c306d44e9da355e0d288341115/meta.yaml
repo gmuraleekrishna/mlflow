@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/9e0324c306d44e9da355e0d288341115/artifacts
+end_time: 1749180181669
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 9e0324c306d44e9da355e0d288341115
+run_name: angry-quail-138
+run_uuid: 9e0324c306d44e9da355e0d288341115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180181590
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/864f45cc76454552bcc357066a7bce43/artifacts
+end_time: 1749180177756
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 864f45cc76454552bcc357066a7bce43
+run_name: monumental-tern-191
+run_uuid: 864f45cc76454552bcc357066a7bce43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180177669
+status: 3
+tags: []
+user_id: thor

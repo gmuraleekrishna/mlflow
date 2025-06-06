@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0a401cc895ba455c912b95494923121c/artifacts
+end_time: 1749180193468
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0a401cc895ba455c912b95494923121c
+run_name: persistent-vole-56
+run_uuid: 0a401cc895ba455c912b95494923121c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180193385
+status: 3
+tags: []
+user_id: thor

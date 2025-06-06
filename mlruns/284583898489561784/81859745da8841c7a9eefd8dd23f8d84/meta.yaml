@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/81859745da8841c7a9eefd8dd23f8d84/artifacts
+end_time: 1749180176106
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 81859745da8841c7a9eefd8dd23f8d84
+run_name: handsome-mare-835
+run_uuid: 81859745da8841c7a9eefd8dd23f8d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180176034
+status: 3
+tags: []
+user_id: thor

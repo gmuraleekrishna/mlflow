@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/2dab0b697c864086937eb5da7db43e4f/artifacts
+end_time: 1749180209581
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 2dab0b697c864086937eb5da7db43e4f
+run_name: merciful-owl-511
+run_uuid: 2dab0b697c864086937eb5da7db43e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180209342
+status: 3
+tags: []
+user_id: thor

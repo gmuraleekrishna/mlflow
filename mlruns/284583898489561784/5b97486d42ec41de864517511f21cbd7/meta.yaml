@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/5b97486d42ec41de864517511f21cbd7/artifacts
+end_time: 1749180225593
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 5b97486d42ec41de864517511f21cbd7
+run_name: ambitious-ox-166
+run_uuid: 5b97486d42ec41de864517511f21cbd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180225406
+status: 3
+tags: []
+user_id: thor

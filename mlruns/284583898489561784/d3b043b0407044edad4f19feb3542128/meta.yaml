@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d3b043b0407044edad4f19feb3542128/artifacts
+end_time: 1749180189019
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d3b043b0407044edad4f19feb3542128
+run_name: wistful-mule-456
+run_uuid: d3b043b0407044edad4f19feb3542128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180188929
+status: 3
+tags: []
+user_id: thor

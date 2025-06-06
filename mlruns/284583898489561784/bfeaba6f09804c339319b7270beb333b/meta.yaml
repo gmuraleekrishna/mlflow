@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/bfeaba6f09804c339319b7270beb333b/artifacts
+end_time: 1749180180642
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: bfeaba6f09804c339319b7270beb333b
+run_name: adorable-stag-360
+run_uuid: bfeaba6f09804c339319b7270beb333b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180180548
+status: 3
+tags: []
+user_id: thor

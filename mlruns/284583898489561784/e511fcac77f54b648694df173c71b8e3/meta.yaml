@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e511fcac77f54b648694df173c71b8e3/artifacts
+end_time: 1749180206706
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e511fcac77f54b648694df173c71b8e3
+run_name: glamorous-turtle-622
+run_uuid: e511fcac77f54b648694df173c71b8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180206608
+status: 3
+tags: []
+user_id: thor

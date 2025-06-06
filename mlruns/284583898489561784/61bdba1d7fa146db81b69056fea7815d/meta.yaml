@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/61bdba1d7fa146db81b69056fea7815d/artifacts
+end_time: 1749180186616
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 61bdba1d7fa146db81b69056fea7815d
+run_name: merciful-grouse-996
+run_uuid: 61bdba1d7fa146db81b69056fea7815d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180186529
+status: 3
+tags: []
+user_id: thor

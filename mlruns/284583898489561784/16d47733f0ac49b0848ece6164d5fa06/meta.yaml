@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/16d47733f0ac49b0848ece6164d5fa06/artifacts
+end_time: 1749180220665
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 16d47733f0ac49b0848ece6164d5fa06
+run_name: debonair-vole-110
+run_uuid: 16d47733f0ac49b0848ece6164d5fa06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180220563
+status: 3
+tags: []
+user_id: thor

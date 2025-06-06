@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c1141cd26571439e84b1b15b40711d4d/artifacts
+end_time: 1749180175725
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c1141cd26571439e84b1b15b40711d4d
+run_name: fearless-wren-821
+run_uuid: c1141cd26571439e84b1b15b40711d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175654
+status: 3
+tags: []
+user_id: thor

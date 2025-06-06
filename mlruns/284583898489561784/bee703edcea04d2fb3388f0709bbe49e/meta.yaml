@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/bee703edcea04d2fb3388f0709bbe49e/artifacts
+end_time: 1749180219299
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: bee703edcea04d2fb3388f0709bbe49e
+run_name: welcoming-wolf-932
+run_uuid: bee703edcea04d2fb3388f0709bbe49e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180219161
+status: 3
+tags: []
+user_id: thor

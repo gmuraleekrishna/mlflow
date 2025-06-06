@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d8a411e584784ccba882f9e4b9255cc4/artifacts
+end_time: 1749180202491
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d8a411e584784ccba882f9e4b9255cc4
+run_name: overjoyed-fawn-937
+run_uuid: d8a411e584784ccba882f9e4b9255cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180202387
+status: 3
+tags: []
+user_id: thor

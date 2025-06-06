@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0d9334e0b1bf4c13908c9ad0bbe42f42/artifacts
+end_time: 1749180194916
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0d9334e0b1bf4c13908c9ad0bbe42f42
+run_name: classy-carp-881
+run_uuid: 0d9334e0b1bf4c13908c9ad0bbe42f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180194826
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/488c1523214f4103bec44f44fb0a00cc/artifacts
+end_time: 1749180207732
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 488c1523214f4103bec44f44fb0a00cc
+run_name: thoughtful-chimp-749
+run_uuid: 488c1523214f4103bec44f44fb0a00cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180207635
+status: 3
+tags: []
+user_id: thor

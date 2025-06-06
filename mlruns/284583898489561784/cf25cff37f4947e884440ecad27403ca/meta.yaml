@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cf25cff37f4947e884440ecad27403ca/artifacts
+end_time: 1749180181093
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cf25cff37f4947e884440ecad27403ca
+run_name: classy-newt-821
+run_uuid: cf25cff37f4947e884440ecad27403ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180181037
+status: 3
+tags: []
+user_id: thor

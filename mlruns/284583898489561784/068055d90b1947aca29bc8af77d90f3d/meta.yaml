@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/068055d90b1947aca29bc8af77d90f3d/artifacts
+end_time: 1749180235441
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 068055d90b1947aca29bc8af77d90f3d
+run_name: sincere-dolphin-317
+run_uuid: 068055d90b1947aca29bc8af77d90f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180235332
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f1620a8af01e4149a151fafb9d243a54/artifacts
+end_time: 1749180224231
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f1620a8af01e4149a151fafb9d243a54
+run_name: sassy-mule-35
+run_uuid: f1620a8af01e4149a151fafb9d243a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180223983
+status: 3
+tags: []
+user_id: thor

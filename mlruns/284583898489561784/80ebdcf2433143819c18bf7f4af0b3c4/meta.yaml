@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/80ebdcf2433143819c18bf7f4af0b3c4/artifacts
+end_time: 1749180175469
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 80ebdcf2433143819c18bf7f4af0b3c4
+run_name: treasured-whale-286
+run_uuid: 80ebdcf2433143819c18bf7f4af0b3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175414
+status: 3
+tags: []
+user_id: thor

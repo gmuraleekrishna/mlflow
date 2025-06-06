@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/52ce6c2edbcf4aeab2316b58dec523cd/artifacts
+end_time: 1749180208352
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 52ce6c2edbcf4aeab2316b58dec523cd
+run_name: likeable-turtle-174
+run_uuid: 52ce6c2edbcf4aeab2316b58dec523cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180208255
+status: 3
+tags: []
+user_id: thor

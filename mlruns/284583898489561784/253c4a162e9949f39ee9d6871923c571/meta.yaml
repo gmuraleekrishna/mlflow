@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/253c4a162e9949f39ee9d6871923c571/artifacts
+end_time: 1749180207216
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 253c4a162e9949f39ee9d6871923c571
+run_name: monumental-cub-693
+run_uuid: 253c4a162e9949f39ee9d6871923c571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180207098
+status: 3
+tags: []
+user_id: thor

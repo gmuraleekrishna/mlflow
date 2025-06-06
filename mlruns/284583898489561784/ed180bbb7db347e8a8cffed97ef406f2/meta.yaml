@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ed180bbb7db347e8a8cffed97ef406f2/artifacts
+end_time: 1749180210801
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ed180bbb7db347e8a8cffed97ef406f2
+run_name: rogue-finch-960
+run_uuid: ed180bbb7db347e8a8cffed97ef406f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180210668
+status: 3
+tags: []
+user_id: thor

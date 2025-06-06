@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/50cd5384510744f38576deccc894bac0/artifacts
+end_time: 1749180229448
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 50cd5384510744f38576deccc894bac0
+run_name: chill-elk-285
+run_uuid: 50cd5384510744f38576deccc894bac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180229330
+status: 3
+tags: []
+user_id: thor

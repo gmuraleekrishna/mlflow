@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/03fedea76e9144eb93726052b7aefb20/artifacts
+end_time: 1749180205554
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 03fedea76e9144eb93726052b7aefb20
+run_name: selective-zebra-966
+run_uuid: 03fedea76e9144eb93726052b7aefb20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180205451
+status: 3
+tags: []
+user_id: thor

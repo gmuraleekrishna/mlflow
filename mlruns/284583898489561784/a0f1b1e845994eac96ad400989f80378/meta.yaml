@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a0f1b1e845994eac96ad400989f80378/artifacts
+end_time: 1749180221626
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a0f1b1e845994eac96ad400989f80378
+run_name: delicate-dove-845
+run_uuid: a0f1b1e845994eac96ad400989f80378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180221481
+status: 3
+tags: []
+user_id: thor

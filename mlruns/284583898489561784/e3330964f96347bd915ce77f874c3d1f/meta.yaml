@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e3330964f96347bd915ce77f874c3d1f/artifacts
+end_time: 1749180186511
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e3330964f96347bd915ce77f874c3d1f
+run_name: aged-mink-411
+run_uuid: e3330964f96347bd915ce77f874c3d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180186354
+status: 3
+tags: []
+user_id: thor

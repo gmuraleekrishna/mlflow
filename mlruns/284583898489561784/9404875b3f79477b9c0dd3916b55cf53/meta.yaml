@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/9404875b3f79477b9c0dd3916b55cf53/artifacts
+end_time: 1749180217280
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 9404875b3f79477b9c0dd3916b55cf53
+run_name: capricious-sheep-29
+run_uuid: 9404875b3f79477b9c0dd3916b55cf53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180217139
+status: 3
+tags: []
+user_id: thor

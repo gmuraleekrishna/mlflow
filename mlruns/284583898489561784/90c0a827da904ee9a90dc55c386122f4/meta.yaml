@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/90c0a827da904ee9a90dc55c386122f4/artifacts
+end_time: 1749180176018
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 90c0a827da904ee9a90dc55c386122f4
+run_name: hilarious-pug-616
+run_uuid: 90c0a827da904ee9a90dc55c386122f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175951
+status: 3
+tags: []
+user_id: thor

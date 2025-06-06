@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/346ce1de42e2493da62acf174516e1dc/artifacts
+end_time: 1749180233951
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 346ce1de42e2493da62acf174516e1dc
+run_name: resilient-zebra-898
+run_uuid: 346ce1de42e2493da62acf174516e1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180233843
+status: 3
+tags: []
+user_id: thor

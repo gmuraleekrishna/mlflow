@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/2ce93db4776546af91d8d96f49b127e0/artifacts
+end_time: 1749180179909
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 2ce93db4776546af91d8d96f49b127e0
+run_name: receptive-koi-881
+run_uuid: 2ce93db4776546af91d8d96f49b127e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180179844
+status: 3
+tags: []
+user_id: thor

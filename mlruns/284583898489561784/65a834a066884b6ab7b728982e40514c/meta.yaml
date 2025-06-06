@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/65a834a066884b6ab7b728982e40514c/artifacts
+end_time: 1749180199074
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 65a834a066884b6ab7b728982e40514c
+run_name: omniscient-newt-554
+run_uuid: 65a834a066884b6ab7b728982e40514c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180198984
+status: 3
+tags: []
+user_id: thor

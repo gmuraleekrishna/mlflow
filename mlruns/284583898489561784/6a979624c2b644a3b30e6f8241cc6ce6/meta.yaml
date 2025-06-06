@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6a979624c2b644a3b30e6f8241cc6ce6/artifacts
+end_time: 1749180183566
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6a979624c2b644a3b30e6f8241cc6ce6
+run_name: luminous-lark-149
+run_uuid: 6a979624c2b644a3b30e6f8241cc6ce6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180183485
+status: 3
+tags: []
+user_id: thor

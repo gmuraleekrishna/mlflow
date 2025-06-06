@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ac752402058d4717a79c2326520a30d1/artifacts
+end_time: 1749180211196
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ac752402058d4717a79c2326520a30d1
+run_name: overjoyed-goat-214
+run_uuid: ac752402058d4717a79c2326520a30d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180211016
+status: 3
+tags: []
+user_id: thor

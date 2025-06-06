@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/af04cc6bf41a43fb9fc55704dc40405f/artifacts
+end_time: 1749180231491
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: af04cc6bf41a43fb9fc55704dc40405f
+run_name: bright-koi-463
+run_uuid: af04cc6bf41a43fb9fc55704dc40405f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180231361
+status: 3
+tags: []
+user_id: thor

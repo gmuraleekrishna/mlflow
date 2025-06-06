@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/8543e21f89a949f680fcde944885bbad/artifacts
+end_time: 1749180195241
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 8543e21f89a949f680fcde944885bbad
+run_name: omniscient-hare-799
+run_uuid: 8543e21f89a949f680fcde944885bbad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180195149
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/fff56c990a44435b9ad080ed7a77e924/artifacts
+end_time: 1749180234866
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: fff56c990a44435b9ad080ed7a77e924
+run_name: peaceful-whale-898
+run_uuid: fff56c990a44435b9ad080ed7a77e924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180234749
+status: 3
+tags: []
+user_id: thor

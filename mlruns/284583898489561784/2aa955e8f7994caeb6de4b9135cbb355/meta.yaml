@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/2aa955e8f7994caeb6de4b9135cbb355/artifacts
+end_time: 1749180181186
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 2aa955e8f7994caeb6de4b9135cbb355
+run_name: judicious-foal-809
+run_uuid: 2aa955e8f7994caeb6de4b9135cbb355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180181109
+status: 3
+tags: []
+user_id: thor

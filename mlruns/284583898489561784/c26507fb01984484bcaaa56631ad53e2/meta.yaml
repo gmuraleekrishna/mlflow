@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c26507fb01984484bcaaa56631ad53e2/artifacts
+end_time: 1749180192941
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c26507fb01984484bcaaa56631ad53e2
+run_name: classy-steed-233
+run_uuid: c26507fb01984484bcaaa56631ad53e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180192845
+status: 3
+tags: []
+user_id: thor

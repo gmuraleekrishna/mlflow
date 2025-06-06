@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a70f9d6846a942768cdc1bcb48e21bfb/artifacts
+end_time: 1749180206942
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a70f9d6846a942768cdc1bcb48e21bfb
+run_name: victorious-wasp-733
+run_uuid: a70f9d6846a942768cdc1bcb48e21bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180206844
+status: 3
+tags: []
+user_id: thor

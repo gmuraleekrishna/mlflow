@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ea4c081df03340019c0a8f210353d121/artifacts
+end_time: 1749180196990
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ea4c081df03340019c0a8f210353d121
+run_name: rogue-cat-623
+run_uuid: ea4c081df03340019c0a8f210353d121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180196900
+status: 3
+tags: []
+user_id: thor

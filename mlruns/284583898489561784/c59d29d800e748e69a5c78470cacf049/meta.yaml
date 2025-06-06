@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c59d29d800e748e69a5c78470cacf049/artifacts
+end_time: 1749180201803
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c59d29d800e748e69a5c78470cacf049
+run_name: capricious-moose-607
+run_uuid: c59d29d800e748e69a5c78470cacf049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180201711
+status: 3
+tags: []
+user_id: thor

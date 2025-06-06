@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/15c869db56eb462b839f4e26db34dfc7/artifacts
+end_time: 1749180231788
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 15c869db56eb462b839f4e26db34dfc7
+run_name: lyrical-moose-473
+run_uuid: 15c869db56eb462b839f4e26db34dfc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180231653
+status: 3
+tags: []
+user_id: thor

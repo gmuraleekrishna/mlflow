@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f9c3c0abe5fc4d249de92d2d5facf4f9/artifacts
+end_time: 1749180193365
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f9c3c0abe5fc4d249de92d2d5facf4f9
+run_name: useful-pug-744
+run_uuid: f9c3c0abe5fc4d249de92d2d5facf4f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180193284
+status: 3
+tags: []
+user_id: thor

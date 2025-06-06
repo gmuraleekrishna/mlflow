@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3a3662be9ef54f3396569f90dc12e9f7/artifacts
+end_time: 1749180184561
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3a3662be9ef54f3396569f90dc12e9f7
+run_name: bouncy-snail-423
+run_uuid: 3a3662be9ef54f3396569f90dc12e9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180184475
+status: 3
+tags: []
+user_id: thor

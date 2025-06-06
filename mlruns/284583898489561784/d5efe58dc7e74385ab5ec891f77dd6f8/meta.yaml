@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d5efe58dc7e74385ab5ec891f77dd6f8/artifacts
+end_time: 1749180206590
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d5efe58dc7e74385ab5ec891f77dd6f8
+run_name: rare-boar-691
+run_uuid: d5efe58dc7e74385ab5ec891f77dd6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180206478
+status: 3
+tags: []
+user_id: thor

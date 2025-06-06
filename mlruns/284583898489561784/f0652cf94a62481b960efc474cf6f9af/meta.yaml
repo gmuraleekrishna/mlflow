@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f0652cf94a62481b960efc474cf6f9af/artifacts
+end_time: 1749180178072
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f0652cf94a62481b960efc474cf6f9af
+run_name: youthful-fox-831
+run_uuid: f0652cf94a62481b960efc474cf6f9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180178004
+status: 3
+tags: []
+user_id: thor

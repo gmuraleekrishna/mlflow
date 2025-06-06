@@ -1,0 +1,36 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 13876774
+model_uuid: 5766ca08464445e5ab85943036e084ac
+prompts: null
+run_id: 4eeaac9601f24210a8e6d93d4e766cd3
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "force1", "required": true}, {"type": "double",
+    "name": "force2", "required": true}, {"type": "double", "name": "force3", "required":
+    true}, {"type": "double", "name": "force4", "required": true}, {"type": "double",
+    "name": "accel1", "required": true}, {"type": "double", "name": "accel2", "required":
+    true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-06 03:00:27.434437'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/877e3c2761a74ae7829b0ef66a82b28c/artifacts
+end_time: 1749180221039
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 877e3c2761a74ae7829b0ef66a82b28c
+run_name: thundering-bug-273
+run_uuid: 877e3c2761a74ae7829b0ef66a82b28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180220935
+status: 3
+tags: []
+user_id: thor

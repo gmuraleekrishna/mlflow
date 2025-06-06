@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/2e468b1f505d4317a93d715553db6b2a/artifacts
+end_time: 1749180231083
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 2e468b1f505d4317a93d715553db6b2a
+run_name: silent-fish-835
+run_uuid: 2e468b1f505d4317a93d715553db6b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180230955
+status: 3
+tags: []
+user_id: thor

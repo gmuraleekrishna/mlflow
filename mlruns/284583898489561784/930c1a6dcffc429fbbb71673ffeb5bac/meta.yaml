@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/930c1a6dcffc429fbbb71673ffeb5bac/artifacts
+end_time: 1749180180355
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 930c1a6dcffc429fbbb71673ffeb5bac
+run_name: beautiful-mouse-933
+run_uuid: 930c1a6dcffc429fbbb71673ffeb5bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180180282
+status: 3
+tags: []
+user_id: thor

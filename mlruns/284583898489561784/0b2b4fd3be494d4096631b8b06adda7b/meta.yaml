@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0b2b4fd3be494d4096631b8b06adda7b/artifacts
+end_time: 1749180175637
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0b2b4fd3be494d4096631b8b06adda7b
+run_name: abrasive-moth-91
+run_uuid: 0b2b4fd3be494d4096631b8b06adda7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175570
+status: 3
+tags: []
+user_id: thor

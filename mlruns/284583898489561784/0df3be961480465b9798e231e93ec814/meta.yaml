@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0df3be961480465b9798e231e93ec814/artifacts
+end_time: 1749180217703
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0df3be961480465b9798e231e93ec814
+run_name: carefree-frog-856
+run_uuid: 0df3be961480465b9798e231e93ec814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180217578
+status: 3
+tags: []
+user_id: thor

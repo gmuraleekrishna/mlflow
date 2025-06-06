@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/8c28f588eb264abca71066971bdf87e0/artifacts
+end_time: 1749180231632
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 8c28f588eb264abca71066971bdf87e0
+run_name: invincible-colt-5
+run_uuid: 8c28f588eb264abca71066971bdf87e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180231513
+status: 3
+tags: []
+user_id: thor

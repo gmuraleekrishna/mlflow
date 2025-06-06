@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/94f2fb8268c64bc2a80ede97d9995eca/artifacts
+end_time: 1749180177456
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 94f2fb8268c64bc2a80ede97d9995eca
+run_name: serious-shad-270
+run_uuid: 94f2fb8268c64bc2a80ede97d9995eca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180177372
+status: 3
+tags: []
+user_id: thor

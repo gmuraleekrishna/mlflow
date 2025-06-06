@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0bbc0104bfd344e98a3e49e4810e8a23/artifacts
+end_time: 1749180191052
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0bbc0104bfd344e98a3e49e4810e8a23
+run_name: bouncy-fawn-485
+run_uuid: 0bbc0104bfd344e98a3e49e4810e8a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180190969
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3d2d1379f42547608c6ad3a6f9e1ce9b/artifacts
+end_time: 1749180174903
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3d2d1379f42547608c6ad3a6f9e1ce9b
+run_name: youthful-grouse-941
+run_uuid: 3d2d1379f42547608c6ad3a6f9e1ce9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180174832
+status: 3
+tags: []
+user_id: thor

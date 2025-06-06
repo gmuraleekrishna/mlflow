@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/b3387414622c462ba8130750e86379a9/artifacts
+end_time: 1749180208497
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: b3387414622c462ba8130750e86379a9
+run_name: gentle-snail-875
+run_uuid: b3387414622c462ba8130750e86379a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180208371
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ac7df96e670e4e50bf0e1d88f6085819/artifacts
+end_time: 1749180194505
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ac7df96e670e4e50bf0e1d88f6085819
+run_name: amazing-turtle-786
+run_uuid: ac7df96e670e4e50bf0e1d88f6085819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180194423
+status: 3
+tags: []
+user_id: thor

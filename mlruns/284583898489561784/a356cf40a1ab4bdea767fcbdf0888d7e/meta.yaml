@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a356cf40a1ab4bdea767fcbdf0888d7e/artifacts
+end_time: 1749180224408
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a356cf40a1ab4bdea767fcbdf0888d7e
+run_name: valuable-ram-194
+run_uuid: a356cf40a1ab4bdea767fcbdf0888d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180224255
+status: 3
+tags: []
+user_id: thor

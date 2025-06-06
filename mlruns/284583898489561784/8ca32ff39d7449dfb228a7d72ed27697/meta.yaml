@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/8ca32ff39d7449dfb228a7d72ed27697/artifacts
+end_time: 1749180193565
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 8ca32ff39d7449dfb228a7d72ed27697
+run_name: whimsical-carp-874
+run_uuid: 8ca32ff39d7449dfb228a7d72ed27697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180193485
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/02ba2f3dd8504e7ab1a00d26fc5c5122/artifacts
+end_time: 1749180197873
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 02ba2f3dd8504e7ab1a00d26fc5c5122
+run_name: bittersweet-cow-680
+run_uuid: 02ba2f3dd8504e7ab1a00d26fc5c5122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180197786
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/231527122410015770/05541065bfde4c1ca02bff817349667e/artifacts
+deleted_time: 1749179804007
+end_time: 1749128685716
+entry_point_name: ''
+experiment_id: '231527122410015770'
+lifecycle_stage: deleted
+run_id: 05541065bfde4c1ca02bff817349667e
+run_name: skittish-koi-141
+run_uuid: 05541065bfde4c1ca02bff817349667e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749128680615
+status: 3
+tags: []
+user_id: thor

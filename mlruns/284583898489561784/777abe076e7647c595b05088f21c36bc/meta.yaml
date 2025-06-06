@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/777abe076e7647c595b05088f21c36bc/artifacts
+end_time: 1749180211853
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 777abe076e7647c595b05088f21c36bc
+run_name: bald-slug-506
+run_uuid: 777abe076e7647c595b05088f21c36bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180211679
+status: 3
+tags: []
+user_id: thor

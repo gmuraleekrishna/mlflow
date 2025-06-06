@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/5d9137ebb7154ea783155621d0717f1c/artifacts
+end_time: 1749180177651
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 5d9137ebb7154ea783155621d0717f1c
+run_name: adorable-flea-105
+run_uuid: 5d9137ebb7154ea783155621d0717f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180177573
+status: 3
+tags: []
+user_id: thor

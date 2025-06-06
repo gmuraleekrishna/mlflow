@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/608ba0986f734c6c81597229b1fea276/artifacts
+end_time: 1749180228748
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 608ba0986f734c6c81597229b1fea276
+run_name: sneaky-rat-134
+run_uuid: 608ba0986f734c6c81597229b1fea276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180228574
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/9e6edad4ea014b9391319c1c3b68b798/artifacts
+end_time: 1749180206112
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 9e6edad4ea014b9391319c1c3b68b798
+run_name: peaceful-rook-545
+run_uuid: 9e6edad4ea014b9391319c1c3b68b798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180206015
+status: 3
+tags: []
+user_id: thor

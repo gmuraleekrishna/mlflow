@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/46750f11fd4c4716a89a760b4faa4b17/artifacts
+end_time: 1749180233177
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 46750f11fd4c4716a89a760b4faa4b17
+run_name: crawling-cow-371
+run_uuid: 46750f11fd4c4716a89a760b4faa4b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180233068
+status: 3
+tags: []
+user_id: thor

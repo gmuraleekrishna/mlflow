@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c19004fe36e349cb8f33f97af52ba400/artifacts
+end_time: 1749180234328
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c19004fe36e349cb8f33f97af52ba400
+run_name: tasteful-snipe-647
+run_uuid: c19004fe36e349cb8f33f97af52ba400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180234217
+status: 3
+tags: []
+user_id: thor

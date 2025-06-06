@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/44bf5cb0100844b2923654b11c0fac01/artifacts
+end_time: 1749180201095
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 44bf5cb0100844b2923654b11c0fac01
+run_name: righteous-robin-166
+run_uuid: 44bf5cb0100844b2923654b11c0fac01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180200996
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/541b148b86b94b4eb18844275012d915/artifacts
+end_time: 1749180232792
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 541b148b86b94b4eb18844275012d915
+run_name: colorful-grouse-134
+run_uuid: 541b148b86b94b4eb18844275012d915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180232683
+status: 3
+tags: []
+user_id: thor

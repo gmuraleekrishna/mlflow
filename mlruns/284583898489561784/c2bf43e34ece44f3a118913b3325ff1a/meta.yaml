@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c2bf43e34ece44f3a118913b3325ff1a/artifacts
+end_time: 1749180180088
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c2bf43e34ece44f3a118913b3325ff1a
+run_name: aged-stork-652
+run_uuid: c2bf43e34ece44f3a118913b3325ff1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180180019
+status: 3
+tags: []
+user_id: thor

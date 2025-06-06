@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/bcc433eb8ead462a80c05970f2a78bc3/artifacts
+end_time: 1749180196656
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: bcc433eb8ead462a80c05970f2a78bc3
+run_name: skillful-goat-710
+run_uuid: bcc433eb8ead462a80c05970f2a78bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180196566
+status: 3
+tags: []
+user_id: thor

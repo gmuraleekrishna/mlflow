@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/98f7609842c3412b995c0562945b1ae7/artifacts
+end_time: 1749180203314
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 98f7609842c3412b995c0562945b1ae7
+run_name: upset-bat-4
+run_uuid: 98f7609842c3412b995c0562945b1ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180203175
+status: 3
+tags: []
+user_id: thor

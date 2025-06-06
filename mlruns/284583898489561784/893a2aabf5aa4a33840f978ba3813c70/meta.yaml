@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/893a2aabf5aa4a33840f978ba3813c70/artifacts
+end_time: 1749180183658
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 893a2aabf5aa4a33840f978ba3813c70
+run_name: rebellious-bird-175
+run_uuid: 893a2aabf5aa4a33840f978ba3813c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180183584
+status: 3
+tags: []
+user_id: thor

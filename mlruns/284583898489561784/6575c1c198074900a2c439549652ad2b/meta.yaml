@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6575c1c198074900a2c439549652ad2b/artifacts
+end_time: 1749180181859
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6575c1c198074900a2c439549652ad2b
+run_name: monumental-hog-384
+run_uuid: 6575c1c198074900a2c439549652ad2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180181777
+status: 3
+tags: []
+user_id: thor

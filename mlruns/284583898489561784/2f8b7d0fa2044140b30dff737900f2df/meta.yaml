@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/2f8b7d0fa2044140b30dff737900f2df/artifacts
+end_time: 1749180201470
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 2f8b7d0fa2044140b30dff737900f2df
+run_name: resilient-lamb-329
+run_uuid: 2f8b7d0fa2044140b30dff737900f2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180201360
+status: 3
+tags: []
+user_id: thor

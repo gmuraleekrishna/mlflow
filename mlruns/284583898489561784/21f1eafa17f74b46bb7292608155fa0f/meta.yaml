@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/21f1eafa17f74b46bb7292608155fa0f/artifacts
+end_time: 1749180182383
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 21f1eafa17f74b46bb7292608155fa0f
+run_name: blushing-sponge-953
+run_uuid: 21f1eafa17f74b46bb7292608155fa0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180182308
+status: 3
+tags: []
+user_id: thor

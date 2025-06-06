@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e46edd0655d64d2fac827dcbf1433cf6/artifacts
+end_time: 1749180212828
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e46edd0655d64d2fac827dcbf1433cf6
+run_name: gaudy-snail-432
+run_uuid: e46edd0655d64d2fac827dcbf1433cf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180212726
+status: 3
+tags: []
+user_id: thor

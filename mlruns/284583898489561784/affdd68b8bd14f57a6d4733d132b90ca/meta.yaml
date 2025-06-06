@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/affdd68b8bd14f57a6d4733d132b90ca/artifacts
+end_time: 1749180219640
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: affdd68b8bd14f57a6d4733d132b90ca
+run_name: flawless-trout-766
+run_uuid: affdd68b8bd14f57a6d4733d132b90ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180219479
+status: 3
+tags: []
+user_id: thor

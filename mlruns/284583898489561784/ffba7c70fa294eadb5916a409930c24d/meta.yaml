@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ffba7c70fa294eadb5916a409930c24d/artifacts
+end_time: 1749180185351
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ffba7c70fa294eadb5916a409930c24d
+run_name: melodic-bee-335
+run_uuid: ffba7c70fa294eadb5916a409930c24d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180185238
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/52fe11e5e8dc4011a03ea12c435624ba/artifacts
+end_time: 1749180176220
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 52fe11e5e8dc4011a03ea12c435624ba
+run_name: bedecked-asp-192
+run_uuid: 52fe11e5e8dc4011a03ea12c435624ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180176122
+status: 3
+tags: []
+user_id: thor

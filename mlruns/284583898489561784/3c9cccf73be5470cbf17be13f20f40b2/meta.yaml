@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3c9cccf73be5470cbf17be13f20f40b2/artifacts
+end_time: 1749180218099
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3c9cccf73be5470cbf17be13f20f40b2
+run_name: gaudy-worm-813
+run_uuid: 3c9cccf73be5470cbf17be13f20f40b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180217988
+status: 3
+tags: []
+user_id: thor

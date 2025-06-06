@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cdd856c326ed4e728f59db041e2f4152/artifacts
+end_time: 1749180175397
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cdd856c326ed4e728f59db041e2f4152
+run_name: blushing-moose-568
+run_uuid: cdd856c326ed4e728f59db041e2f4152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175318
+status: 3
+tags: []
+user_id: thor

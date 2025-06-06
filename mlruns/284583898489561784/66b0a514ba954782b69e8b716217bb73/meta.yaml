@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/66b0a514ba954782b69e8b716217bb73/artifacts
+end_time: 1749180198536
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 66b0a514ba954782b69e8b716217bb73
+run_name: big-whale-27
+run_uuid: 66b0a514ba954782b69e8b716217bb73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180198454
+status: 3
+tags: []
+user_id: thor

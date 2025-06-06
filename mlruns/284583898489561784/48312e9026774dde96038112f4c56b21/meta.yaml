@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/48312e9026774dde96038112f4c56b21/artifacts
+end_time: 1749180188269
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 48312e9026774dde96038112f4c56b21
+run_name: mysterious-wren-812
+run_uuid: 48312e9026774dde96038112f4c56b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180188191
+status: 3
+tags: []
+user_id: thor

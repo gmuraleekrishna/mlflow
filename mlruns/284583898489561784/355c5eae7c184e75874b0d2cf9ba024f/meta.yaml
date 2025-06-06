@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/355c5eae7c184e75874b0d2cf9ba024f/artifacts
+end_time: 1749180234198
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 355c5eae7c184e75874b0d2cf9ba024f
+run_name: placid-conch-147
+run_uuid: 355c5eae7c184e75874b0d2cf9ba024f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180234092
+status: 3
+tags: []
+user_id: thor

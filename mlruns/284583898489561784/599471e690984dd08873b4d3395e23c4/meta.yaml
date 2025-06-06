@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/599471e690984dd08873b4d3395e23c4/artifacts
+end_time: 1749180179517
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 599471e690984dd08873b4d3395e23c4
+run_name: casual-shark-922
+run_uuid: 599471e690984dd08873b4d3395e23c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180179466
+status: 3
+tags: []
+user_id: thor

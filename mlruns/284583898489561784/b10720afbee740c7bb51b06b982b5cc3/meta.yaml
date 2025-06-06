@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/b10720afbee740c7bb51b06b982b5cc3/artifacts
+end_time: 1749180179449
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: b10720afbee740c7bb51b06b982b5cc3
+run_name: clumsy-cat-184
+run_uuid: b10720afbee740c7bb51b06b982b5cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180179373
+status: 3
+tags: []
+user_id: thor

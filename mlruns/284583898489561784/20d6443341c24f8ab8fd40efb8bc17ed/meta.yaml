@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/20d6443341c24f8ab8fd40efb8bc17ed/artifacts
+end_time: 1749180205774
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 20d6443341c24f8ab8fd40efb8bc17ed
+run_name: calm-cod-569
+run_uuid: 20d6443341c24f8ab8fd40efb8bc17ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180205684
+status: 3
+tags: []
+user_id: thor

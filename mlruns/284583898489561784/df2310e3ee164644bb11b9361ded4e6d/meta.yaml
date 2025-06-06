@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/df2310e3ee164644bb11b9361ded4e6d/artifacts
+end_time: 1749180177354
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: df2310e3ee164644bb11b9361ded4e6d
+run_name: beautiful-sheep-435
+run_uuid: df2310e3ee164644bb11b9361ded4e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180177252
+status: 3
+tags: []
+user_id: thor

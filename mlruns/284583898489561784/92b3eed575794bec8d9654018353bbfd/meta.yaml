@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/92b3eed575794bec8d9654018353bbfd/artifacts
+end_time: 1749180185018
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 92b3eed575794bec8d9654018353bbfd
+run_name: beautiful-goat-556
+run_uuid: 92b3eed575794bec8d9654018353bbfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180184935
+status: 3
+tags: []
+user_id: thor

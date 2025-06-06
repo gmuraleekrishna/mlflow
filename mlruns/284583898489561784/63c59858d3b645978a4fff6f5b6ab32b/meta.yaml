@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/63c59858d3b645978a4fff6f5b6ab32b/artifacts
+end_time: 1749180193777
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 63c59858d3b645978a4fff6f5b6ab32b
+run_name: ambitious-deer-24
+run_uuid: 63c59858d3b645978a4fff6f5b6ab32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180193697
+status: 3
+tags: []
+user_id: thor

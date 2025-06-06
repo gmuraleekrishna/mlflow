@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3e5bc587f7394a1d96f78c039cb6b472/artifacts
+end_time: 1749180204163
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3e5bc587f7394a1d96f78c039cb6b472
+run_name: funny-shoat-739
+run_uuid: 3e5bc587f7394a1d96f78c039cb6b472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180204058
+status: 3
+tags: []
+user_id: thor

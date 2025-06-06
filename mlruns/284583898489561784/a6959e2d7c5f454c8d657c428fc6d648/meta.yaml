@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a6959e2d7c5f454c8d657c428fc6d648/artifacts
+end_time: 1749180200978
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a6959e2d7c5f454c8d657c428fc6d648
+run_name: nervous-ox-202
+run_uuid: a6959e2d7c5f454c8d657c428fc6d648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180200883
+status: 3
+tags: []
+user_id: thor

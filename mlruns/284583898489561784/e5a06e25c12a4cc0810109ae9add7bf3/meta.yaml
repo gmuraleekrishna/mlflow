@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e5a06e25c12a4cc0810109ae9add7bf3/artifacts
+end_time: 1749180218257
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e5a06e25c12a4cc0810109ae9add7bf3
+run_name: luminous-quail-241
+run_uuid: e5a06e25c12a4cc0810109ae9add7bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180218118
+status: 3
+tags: []
+user_id: thor

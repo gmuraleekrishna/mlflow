@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6681bdbbfa4a403fadd70f5c34074645/artifacts
+end_time: 1749180213869
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6681bdbbfa4a403fadd70f5c34074645
+run_name: amazing-lynx-141
+run_uuid: 6681bdbbfa4a403fadd70f5c34074645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180213758
+status: 3
+tags: []
+user_id: thor

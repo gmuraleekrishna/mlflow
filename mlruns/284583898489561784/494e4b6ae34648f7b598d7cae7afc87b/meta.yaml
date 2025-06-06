@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/494e4b6ae34648f7b598d7cae7afc87b/artifacts
+end_time: 1749180185815
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 494e4b6ae34648f7b598d7cae7afc87b
+run_name: unequaled-gull-542
+run_uuid: 494e4b6ae34648f7b598d7cae7afc87b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180185729
+status: 3
+tags: []
+user_id: thor

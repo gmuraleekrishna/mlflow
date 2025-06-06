@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/031073dca2464ea68ba7fcf0fe0cbbea/artifacts
+end_time: 1749180177986
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 031073dca2464ea68ba7fcf0fe0cbbea
+run_name: wise-jay-933
+run_uuid: 031073dca2464ea68ba7fcf0fe0cbbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180177908
+status: 3
+tags: []
+user_id: thor

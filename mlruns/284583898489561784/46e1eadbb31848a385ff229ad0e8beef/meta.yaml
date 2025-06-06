@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/46e1eadbb31848a385ff229ad0e8beef/artifacts
+end_time: 1749180220917
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 46e1eadbb31848a385ff229ad0e8beef
+run_name: bustling-wolf-432
+run_uuid: 46e1eadbb31848a385ff229ad0e8beef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180220813
+status: 3
+tags: []
+user_id: thor

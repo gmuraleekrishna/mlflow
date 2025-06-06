@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3b07d91c9af047e897b87ca441922569/artifacts
+end_time: 1749180205666
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3b07d91c9af047e897b87ca441922569
+run_name: bemused-hen-591
+run_uuid: 3b07d91c9af047e897b87ca441922569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180205572
+status: 3
+tags: []
+user_id: thor

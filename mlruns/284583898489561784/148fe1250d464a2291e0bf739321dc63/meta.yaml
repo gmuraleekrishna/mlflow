@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/148fe1250d464a2291e0bf739321dc63/artifacts
+end_time: 1749180191682
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 148fe1250d464a2291e0bf739321dc63
+run_name: grandiose-shrew-678
+run_uuid: 148fe1250d464a2291e0bf739321dc63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180191602
+status: 3
+tags: []
+user_id: thor

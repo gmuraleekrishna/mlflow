@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c3aad45994994a3d94263cbdc02e1c33/artifacts
+end_time: 1749180183184
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c3aad45994994a3d94263cbdc02e1c33
+run_name: unruly-sow-83
+run_uuid: c3aad45994994a3d94263cbdc02e1c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180183091
+status: 3
+tags: []
+user_id: thor

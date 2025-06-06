@@ -1,0 +1,40 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.4
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.core.Booster
+    model_format: ubj
+    xgb_version: 2.1.4
+is_signature_from_type_hint: false
+metadata:
+  model_data_version: 1
+mlflow_version: 2.22.0
+model_size_bytes: 18893
+model_uuid: 9e1acf07e93f477d951c7a4d14fb8833
+prompts: null
+run_id: 995015b1de6d468f9b7897d13696083a
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "average_temperature", "required": true}, {"type":
+    "double", "name": "rainfall", "required": true}, {"type": "long", "name": "weekend",
+    "required": true}, {"type": "long", "name": "holiday", "required": true}, {"type":
+    "double", "name": "price_per_kg", "required": true}, {"type": "long", "name":
+    "promo", "required": true}, {"type": "double", "name": "previous_days_demand",
+    "required": true}, {"type": "double", "name": "competitor_price_per_kg", "required":
+    true}, {"type": "double", "name": "marketing_intensity", "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-06 03:23:56.535057'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/562fe7b731054b5793589e8746a84ec9/artifacts
+end_time: 1749180192827
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 562fe7b731054b5793589e8746a84ec9
+run_name: brawny-lynx-773
+run_uuid: 562fe7b731054b5793589e8746a84ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180192741
+status: 3
+tags: []
+user_id: thor

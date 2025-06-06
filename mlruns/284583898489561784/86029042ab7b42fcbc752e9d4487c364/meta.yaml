@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/86029042ab7b42fcbc752e9d4487c364/artifacts
+end_time: 1749180223342
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 86029042ab7b42fcbc752e9d4487c364
+run_name: agreeable-hog-312
+run_uuid: 86029042ab7b42fcbc752e9d4487c364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180223242
+status: 3
+tags: []
+user_id: thor

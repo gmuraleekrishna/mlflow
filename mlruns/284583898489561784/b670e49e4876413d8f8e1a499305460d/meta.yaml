@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/b670e49e4876413d8f8e1a499305460d/artifacts
+end_time: 1749180220795
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: b670e49e4876413d8f8e1a499305460d
+run_name: fearless-horse-499
+run_uuid: b670e49e4876413d8f8e1a499305460d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180220684
+status: 3
+tags: []
+user_id: thor

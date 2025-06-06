@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/48ab9815c423410db2b389f5fe96bef8/artifacts
+end_time: 1749180187022
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 48ab9815c423410db2b389f5fe96bef8
+run_name: delightful-sloth-709
+run_uuid: 48ab9815c423410db2b389f5fe96bef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180186867
+status: 3
+tags: []
+user_id: thor

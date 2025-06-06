@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/60311c716af747d6afef1dbbe087b49b/artifacts
+end_time: 1749180184362
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 60311c716af747d6afef1dbbe087b49b
+run_name: orderly-whale-262
+run_uuid: 60311c716af747d6afef1dbbe087b49b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180184271
+status: 3
+tags: []
+user_id: thor

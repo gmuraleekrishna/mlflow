@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/87516eb7dc704d1e9e6cd16d99c8f440/artifacts
+end_time: 1749180180265
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 87516eb7dc704d1e9e6cd16d99c8f440
+run_name: suave-foal-566
+run_uuid: 87516eb7dc704d1e9e6cd16d99c8f440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180180194
+status: 3
+tags: []
+user_id: thor

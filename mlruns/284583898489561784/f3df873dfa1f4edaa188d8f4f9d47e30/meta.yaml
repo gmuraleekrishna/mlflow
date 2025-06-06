@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f3df873dfa1f4edaa188d8f4f9d47e30/artifacts
+end_time: 1749180231339
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f3df873dfa1f4edaa188d8f4f9d47e30
+run_name: agreeable-dove-677
+run_uuid: f3df873dfa1f4edaa188d8f4f9d47e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180231226
+status: 3
+tags: []
+user_id: thor

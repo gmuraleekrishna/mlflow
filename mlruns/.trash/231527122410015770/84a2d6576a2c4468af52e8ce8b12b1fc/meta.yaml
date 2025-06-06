@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/231527122410015770/84a2d6576a2c4468af52e8ce8b12b1fc/artifacts
+deleted_time: 1749179804007
+end_time: 1749165084704
+entry_point_name: ''
+experiment_id: '231527122410015770'
+lifecycle_stage: deleted
+run_id: 84a2d6576a2c4468af52e8ce8b12b1fc
+run_name: colorful-stag-221
+run_uuid: 84a2d6576a2c4468af52e8ce8b12b1fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749165081264
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/83b714c80dea43499871b5dbd6b9580f/artifacts
+end_time: 1749180213455
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 83b714c80dea43499871b5dbd6b9580f
+run_name: clean-fowl-853
+run_uuid: 83b714c80dea43499871b5dbd6b9580f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180213350
+status: 3
+tags: []
+user_id: thor

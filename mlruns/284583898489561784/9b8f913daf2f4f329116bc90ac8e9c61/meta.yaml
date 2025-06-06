@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/9b8f913daf2f4f329116bc90ac8e9c61/artifacts
+end_time: 1749180179999
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 9b8f913daf2f4f329116bc90ac8e9c61
+run_name: sassy-sloth-778
+run_uuid: 9b8f913daf2f4f329116bc90ac8e9c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180179925
+status: 3
+tags: []
+user_id: thor

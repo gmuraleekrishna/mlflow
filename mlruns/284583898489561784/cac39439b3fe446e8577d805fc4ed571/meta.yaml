@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cac39439b3fe446e8577d805fc4ed571/artifacts
+end_time: 1749180204996
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cac39439b3fe446e8577d805fc4ed571
+run_name: worried-skink-219
+run_uuid: cac39439b3fe446e8577d805fc4ed571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180204907
+status: 3
+tags: []
+user_id: thor

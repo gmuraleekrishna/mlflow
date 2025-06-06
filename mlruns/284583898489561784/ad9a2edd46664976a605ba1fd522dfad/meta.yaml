@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/ad9a2edd46664976a605ba1fd522dfad/artifacts
+end_time: 1749180178603
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: ad9a2edd46664976a605ba1fd522dfad
+run_name: skittish-dog-755
+run_uuid: ad9a2edd46664976a605ba1fd522dfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180178521
+status: 3
+tags: []
+user_id: thor

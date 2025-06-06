@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/02aab3e0809f436fbcd5d9628dd1e02e/artifacts
+end_time: 1749180204659
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 02aab3e0809f436fbcd5d9628dd1e02e
+run_name: honorable-stork-204
+run_uuid: 02aab3e0809f436fbcd5d9628dd1e02e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180204545
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c8f9a734e8e444fea1cc41380c0ea317/artifacts
+end_time: 1749180203669
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c8f9a734e8e444fea1cc41380c0ea317
+run_name: sneaky-mole-727
+run_uuid: c8f9a734e8e444fea1cc41380c0ea317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180203571
+status: 3
+tags: []
+user_id: thor

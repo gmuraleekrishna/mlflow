@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/baa4421aedc44af693be76ad7cf2306c/artifacts
+end_time: 1749180199416
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: baa4421aedc44af693be76ad7cf2306c
+run_name: nosy-dove-86
+run_uuid: baa4421aedc44af693be76ad7cf2306c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180199318
+status: 3
+tags: []
+user_id: thor

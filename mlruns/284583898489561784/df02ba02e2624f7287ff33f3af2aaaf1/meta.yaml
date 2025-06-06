@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/df02ba02e2624f7287ff33f3af2aaaf1/artifacts
+end_time: 1749180209082
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: df02ba02e2624f7287ff33f3af2aaaf1
+run_name: rumbling-ant-494
+run_uuid: df02ba02e2624f7287ff33f3af2aaaf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180208988
+status: 3
+tags: []
+user_id: thor

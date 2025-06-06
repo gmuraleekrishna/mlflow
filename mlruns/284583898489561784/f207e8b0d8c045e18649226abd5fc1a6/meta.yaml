@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f207e8b0d8c045e18649226abd5fc1a6/artifacts
+end_time: 1749180200651
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f207e8b0d8c045e18649226abd5fc1a6
+run_name: aged-snail-402
+run_uuid: f207e8b0d8c045e18649226abd5fc1a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180200540
+status: 3
+tags: []
+user_id: thor

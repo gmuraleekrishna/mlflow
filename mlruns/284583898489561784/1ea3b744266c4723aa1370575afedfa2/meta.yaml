@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/1ea3b744266c4723aa1370575afedfa2/artifacts
+end_time: 1749180232385
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 1ea3b744266c4723aa1370575afedfa2
+run_name: righteous-koi-447
+run_uuid: 1ea3b744266c4723aa1370575afedfa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180232278
+status: 3
+tags: []
+user_id: thor

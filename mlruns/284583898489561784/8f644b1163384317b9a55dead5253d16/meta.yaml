@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/8f644b1163384317b9a55dead5253d16/artifacts
+end_time: 1749180230295
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 8f644b1163384317b9a55dead5253d16
+run_name: burly-moose-117
+run_uuid: 8f644b1163384317b9a55dead5253d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180230166
+status: 3
+tags: []
+user_id: thor

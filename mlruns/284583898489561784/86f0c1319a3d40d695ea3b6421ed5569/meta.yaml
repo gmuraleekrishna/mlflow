@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/86f0c1319a3d40d695ea3b6421ed5569/artifacts
+end_time: 1749180179356
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 86f0c1319a3d40d695ea3b6421ed5569
+run_name: calm-dove-382
+run_uuid: 86f0c1319a3d40d695ea3b6421ed5569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180179283
+status: 3
+tags: []
+user_id: thor

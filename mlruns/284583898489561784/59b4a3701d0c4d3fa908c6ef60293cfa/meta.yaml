@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/59b4a3701d0c4d3fa908c6ef60293cfa/artifacts
+end_time: 1749180190845
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 59b4a3701d0c4d3fa908c6ef60293cfa
+run_name: bedecked-mole-112
+run_uuid: 59b4a3701d0c4d3fa908c6ef60293cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180190789
+status: 3
+tags: []
+user_id: thor

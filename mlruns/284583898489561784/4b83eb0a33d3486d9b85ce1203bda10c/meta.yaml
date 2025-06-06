@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/4b83eb0a33d3486d9b85ce1203bda10c/artifacts
+end_time: 1749180192623
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 4b83eb0a33d3486d9b85ce1203bda10c
+run_name: welcoming-mole-100
+run_uuid: 4b83eb0a33d3486d9b85ce1203bda10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180192539
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/3ef501db84254442917eaae81a6a0963/artifacts
+end_time: 1749180188910
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 3ef501db84254442917eaae81a6a0963
+run_name: redolent-colt-344
+run_uuid: 3ef501db84254442917eaae81a6a0963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180188831
+status: 3
+tags: []
+user_id: thor

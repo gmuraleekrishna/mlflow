@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c6d0b12a3c0f4db78668b5e24180a780/artifacts
+end_time: 1749180191791
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c6d0b12a3c0f4db78668b5e24180a780
+run_name: treasured-snake-719
+run_uuid: c6d0b12a3c0f4db78668b5e24180a780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180191699
+status: 3
+tags: []
+user_id: thor

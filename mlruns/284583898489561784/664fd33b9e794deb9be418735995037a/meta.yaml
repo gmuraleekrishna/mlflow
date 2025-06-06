@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/664fd33b9e794deb9be418735995037a/artifacts
+end_time: 1749180204527
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 664fd33b9e794deb9be418735995037a
+run_name: thundering-whale-956
+run_uuid: 664fd33b9e794deb9be418735995037a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180204412
+status: 3
+tags: []
+user_id: thor

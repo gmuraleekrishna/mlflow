@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/040ad2a668c44a97a716e0a2bbc720d0/artifacts
+end_time: 1749180193157
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 040ad2a668c44a97a716e0a2bbc720d0
+run_name: judicious-ant-277
+run_uuid: 040ad2a668c44a97a716e0a2bbc720d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180193063
+status: 3
+tags: []
+user_id: thor

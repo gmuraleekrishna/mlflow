@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c29603c9cdde42bdbafe0231926bb828/artifacts
+end_time: 1749180226367
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c29603c9cdde42bdbafe0231926bb828
+run_name: luxuriant-cow-276
+run_uuid: c29603c9cdde42bdbafe0231926bb828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180226264
+status: 3
+tags: []
+user_id: thor

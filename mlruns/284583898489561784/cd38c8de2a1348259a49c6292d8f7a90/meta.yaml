@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cd38c8de2a1348259a49c6292d8f7a90/artifacts
+end_time: 1749180201921
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cd38c8de2a1348259a49c6292d8f7a90
+run_name: glamorous-rook-837
+run_uuid: cd38c8de2a1348259a49c6292d8f7a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180201821
+status: 3
+tags: []
+user_id: thor

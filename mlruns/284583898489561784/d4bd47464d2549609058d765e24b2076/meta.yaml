@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d4bd47464d2549609058d765e24b2076/artifacts
+end_time: 1749180175124
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d4bd47464d2549609058d765e24b2076
+run_name: respected-goose-758
+run_uuid: d4bd47464d2549609058d765e24b2076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175063
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d8383bb152774779ad8547fa0c866745/artifacts
+end_time: 1749180233698
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d8383bb152774779ad8547fa0c866745
+run_name: burly-lynx-823
+run_uuid: d8383bb152774779ad8547fa0c866745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180233478
+status: 3
+tags: []
+user_id: thor

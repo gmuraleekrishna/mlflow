@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/2d6b2b468731425a8dfd5168a77f8985/artifacts
+end_time: 1749180182602
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 2d6b2b468731425a8dfd5168a77f8985
+run_name: entertaining-bug-489
+run_uuid: 2d6b2b468731425a8dfd5168a77f8985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180182506
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6b6ef73af726441fb0911e87af325942/artifacts
+end_time: 1749180223773
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6b6ef73af726441fb0911e87af325942
+run_name: dapper-auk-673
+run_uuid: 6b6ef73af726441fb0911e87af325942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180223638
+status: 3
+tags: []
+user_id: thor

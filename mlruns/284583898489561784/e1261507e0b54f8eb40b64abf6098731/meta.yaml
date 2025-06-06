@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e1261507e0b54f8eb40b64abf6098731/artifacts
+end_time: 1749180230801
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e1261507e0b54f8eb40b64abf6098731
+run_name: smiling-worm-567
+run_uuid: e1261507e0b54f8eb40b64abf6098731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180230696
+status: 3
+tags: []
+user_id: thor

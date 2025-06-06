@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/29064bc013f44c1bb1a850ad7325e130/artifacts
+end_time: 1749180230015
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 29064bc013f44c1bb1a850ad7325e130
+run_name: blushing-asp-273
+run_uuid: 29064bc013f44c1bb1a850ad7325e130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180229898
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/b76990ee6a6544afa1610a3c7dbd2be2/artifacts
+end_time: 1749180189840
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: b76990ee6a6544afa1610a3c7dbd2be2
+run_name: legendary-colt-265
+run_uuid: b76990ee6a6544afa1610a3c7dbd2be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180189747
+status: 3
+tags: []
+user_id: thor

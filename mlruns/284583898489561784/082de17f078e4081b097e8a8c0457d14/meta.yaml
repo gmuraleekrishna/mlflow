@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/082de17f078e4081b097e8a8c0457d14/artifacts
+end_time: 1749180205120
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 082de17f078e4081b097e8a8c0457d14
+run_name: burly-skunk-927
+run_uuid: 082de17f078e4081b097e8a8c0457d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180205014
+status: 3
+tags: []
+user_id: thor

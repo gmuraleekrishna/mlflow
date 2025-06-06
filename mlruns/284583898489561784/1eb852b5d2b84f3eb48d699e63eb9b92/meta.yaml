@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/1eb852b5d2b84f3eb48d699e63eb9b92/artifacts
+end_time: 1749180174390
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 1eb852b5d2b84f3eb48d699e63eb9b92
+run_name: grandiose-sponge-545
+run_uuid: 1eb852b5d2b84f3eb48d699e63eb9b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180174304
+status: 3
+tags: []
+user_id: thor

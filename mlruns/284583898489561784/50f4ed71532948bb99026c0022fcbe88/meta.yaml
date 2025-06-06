@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/50f4ed71532948bb99026c0022fcbe88/artifacts
+end_time: 1749180202369
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 50f4ed71532948bb99026c0022fcbe88
+run_name: bemused-ox-758
+run_uuid: 50f4ed71532948bb99026c0022fcbe88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180202283
+status: 3
+tags: []
+user_id: thor

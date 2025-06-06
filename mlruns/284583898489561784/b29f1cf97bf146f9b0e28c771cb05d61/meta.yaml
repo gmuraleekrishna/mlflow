@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/b29f1cf97bf146f9b0e28c771cb05d61/artifacts
+end_time: 1749180225253
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: b29f1cf97bf146f9b0e28c771cb05d61
+run_name: shivering-snail-945
+run_uuid: b29f1cf97bf146f9b0e28c771cb05d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180225145
+status: 3
+tags: []
+user_id: thor

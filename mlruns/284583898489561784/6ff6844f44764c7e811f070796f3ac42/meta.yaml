@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/6ff6844f44764c7e811f070796f3ac42/artifacts
+end_time: 1749180205433
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 6ff6844f44764c7e811f070796f3ac42
+run_name: fortunate-fawn-731
+run_uuid: 6ff6844f44764c7e811f070796f3ac42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180205232
+status: 3
+tags: []
+user_id: thor

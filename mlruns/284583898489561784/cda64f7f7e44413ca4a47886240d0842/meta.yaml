@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cda64f7f7e44413ca4a47886240d0842/artifacts
+end_time: 1749180178846
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cda64f7f7e44413ca4a47886240d0842
+run_name: dashing-hog-715
+run_uuid: cda64f7f7e44413ca4a47886240d0842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180178777
+status: 3
+tags: []
+user_id: thor

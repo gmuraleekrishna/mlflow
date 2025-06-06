@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/9116ec037c84411088c7afc1f8b989c9/artifacts
+end_time: 1749180177036
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 9116ec037c84411088c7afc1f8b989c9
+run_name: sedate-dove-150
+run_uuid: 9116ec037c84411088c7afc1f8b989c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180176966
+status: 3
+tags: []
+user_id: thor

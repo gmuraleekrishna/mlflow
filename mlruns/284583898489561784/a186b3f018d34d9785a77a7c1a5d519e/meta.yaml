@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a186b3f018d34d9785a77a7c1a5d519e/artifacts
+end_time: 1749180186743
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a186b3f018d34d9785a77a7c1a5d519e
+run_name: bittersweet-ant-370
+run_uuid: a186b3f018d34d9785a77a7c1a5d519e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180186634
+status: 3
+tags: []
+user_id: thor

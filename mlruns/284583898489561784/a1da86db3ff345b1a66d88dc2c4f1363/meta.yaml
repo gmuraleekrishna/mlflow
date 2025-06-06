@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a1da86db3ff345b1a66d88dc2c4f1363/artifacts
+end_time: 1749180192203
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a1da86db3ff345b1a66d88dc2c4f1363
+run_name: rare-smelt-765
+run_uuid: a1da86db3ff345b1a66d88dc2c4f1363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180192107
+status: 3
+tags: []
+user_id: thor

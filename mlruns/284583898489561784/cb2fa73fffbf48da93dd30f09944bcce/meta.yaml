@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/cb2fa73fffbf48da93dd30f09944bcce/artifacts
+end_time: 1749180221966
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: cb2fa73fffbf48da93dd30f09944bcce
+run_name: learned-slug-261
+run_uuid: cb2fa73fffbf48da93dd30f09944bcce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180221818
+status: 3
+tags: []
+user_id: thor

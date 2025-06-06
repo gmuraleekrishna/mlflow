@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/29df8d69c0f84d9bb570954685e95f17/artifacts
+end_time: 1749180219791
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 29df8d69c0f84d9bb570954685e95f17
+run_name: wise-shad-729
+run_uuid: 29df8d69c0f84d9bb570954685e95f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180219664
+status: 3
+tags: []
+user_id: thor

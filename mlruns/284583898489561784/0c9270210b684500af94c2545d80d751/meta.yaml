@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0c9270210b684500af94c2545d80d751/artifacts
+end_time: 1749180181479
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0c9270210b684500af94c2545d80d751
+run_name: trusting-whale-668
+run_uuid: 0c9270210b684500af94c2545d80d751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180181404
+status: 3
+tags: []
+user_id: thor

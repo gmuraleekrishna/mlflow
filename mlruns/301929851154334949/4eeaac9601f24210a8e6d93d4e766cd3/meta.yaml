@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/301929851154334949/4eeaac9601f24210a8e6d93d4e766cd3/artifacts
+end_time: 1749178832442
+entry_point_name: ''
+experiment_id: '301929851154334949'
+lifecycle_stage: active
+run_id: 4eeaac9601f24210a8e6d93d4e766cd3
+run_name: first_attempt
+run_uuid: 4eeaac9601f24210a8e6d93d4e766cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749178827421
+status: 3
+tags: []
+user_id: thor

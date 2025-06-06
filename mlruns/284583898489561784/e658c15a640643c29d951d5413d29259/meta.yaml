@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/e658c15a640643c29d951d5413d29259/artifacts
+end_time: 1749180196763
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: e658c15a640643c29d951d5413d29259
+run_name: agreeable-frog-478
+run_uuid: e658c15a640643c29d951d5413d29259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180196674
+status: 3
+tags: []
+user_id: thor

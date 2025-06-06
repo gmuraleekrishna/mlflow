@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/aea98c64a17f4b70b844a00647ca7461/artifacts
+end_time: 1749180197217
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: aea98c64a17f4b70b844a00647ca7461
+run_name: hilarious-deer-241
+run_uuid: aea98c64a17f4b70b844a00647ca7461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180197136
+status: 3
+tags: []
+user_id: thor

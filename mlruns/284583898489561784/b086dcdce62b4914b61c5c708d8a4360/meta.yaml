@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/b086dcdce62b4914b61c5c708d8a4360/artifacts
+end_time: 1749180178215
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: b086dcdce62b4914b61c5c708d8a4360
+run_name: resilient-wolf-879
+run_uuid: b086dcdce62b4914b61c5c708d8a4360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180178093
+status: 3
+tags: []
+user_id: thor

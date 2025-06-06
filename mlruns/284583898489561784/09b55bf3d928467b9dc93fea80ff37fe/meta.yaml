@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/09b55bf3d928467b9dc93fea80ff37fe/artifacts
+end_time: 1749180219982
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 09b55bf3d928467b9dc93fea80ff37fe
+run_name: fortunate-gnat-233
+run_uuid: 09b55bf3d928467b9dc93fea80ff37fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180219811
+status: 3
+tags: []
+user_id: thor

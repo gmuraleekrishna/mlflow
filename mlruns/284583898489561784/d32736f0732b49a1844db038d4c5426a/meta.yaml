@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/d32736f0732b49a1844db038d4c5426a/artifacts
+end_time: 1749180192722
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: d32736f0732b49a1844db038d4c5426a
+run_name: big-hog-158
+run_uuid: d32736f0732b49a1844db038d4c5426a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180192641
+status: 3
+tags: []
+user_id: thor

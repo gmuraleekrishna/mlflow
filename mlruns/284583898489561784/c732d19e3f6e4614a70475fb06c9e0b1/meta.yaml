@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/c732d19e3f6e4614a70475fb06c9e0b1/artifacts
+end_time: 1749180196011
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: c732d19e3f6e4614a70475fb06c9e0b1
+run_name: victorious-doe-631
+run_uuid: c732d19e3f6e4614a70475fb06c9e0b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180195929
+status: 3
+tags: []
+user_id: thor

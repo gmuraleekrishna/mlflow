@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/a74c6466677b46ddad90d42cccfd4461/artifacts
+end_time: 1749180208088
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: a74c6466677b46ddad90d42cccfd4461
+run_name: caring-fowl-349
+run_uuid: a74c6466677b46ddad90d42cccfd4461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180207988
+status: 3
+tags: []
+user_id: thor

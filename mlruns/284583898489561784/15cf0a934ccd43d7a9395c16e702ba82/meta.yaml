@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/15cf0a934ccd43d7a9395c16e702ba82/artifacts
+end_time: 1749180201342
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 15cf0a934ccd43d7a9395c16e702ba82
+run_name: salty-stoat-257
+run_uuid: 15cf0a934ccd43d7a9395c16e702ba82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180201256
+status: 3
+tags: []
+user_id: thor

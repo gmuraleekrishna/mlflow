@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/dff7698074d649438b6436d8b244cd55/artifacts
+end_time: 1749180202598
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: dff7698074d649438b6436d8b244cd55
+run_name: tasteful-swan-93
+run_uuid: dff7698074d649438b6436d8b244cd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180202508
+status: 3
+tags: []
+user_id: thor

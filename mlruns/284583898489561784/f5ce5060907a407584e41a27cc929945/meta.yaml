@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/f5ce5060907a407584e41a27cc929945/artifacts
+end_time: 1749180188475
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: f5ce5060907a407584e41a27cc929945
+run_name: amusing-fish-294
+run_uuid: f5ce5060907a407584e41a27cc929945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180188384
+status: 3
+tags: []
+user_id: thor

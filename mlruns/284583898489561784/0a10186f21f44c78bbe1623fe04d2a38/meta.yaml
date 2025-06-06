@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0a10186f21f44c78bbe1623fe04d2a38/artifacts
+end_time: 1749180175554
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0a10186f21f44c78bbe1623fe04d2a38
+run_name: respected-ox-529
+run_uuid: 0a10186f21f44c78bbe1623fe04d2a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180175485
+status: 3
+tags: []
+user_id: thor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/374cc030f23c41658a37bafc318afa62/artifacts
+end_time: 1749180206825
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 374cc030f23c41658a37bafc318afa62
+run_name: intelligent-elk-386
+run_uuid: 374cc030f23c41658a37bafc318afa62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180206724
+status: 3
+tags: []
+user_id: thor

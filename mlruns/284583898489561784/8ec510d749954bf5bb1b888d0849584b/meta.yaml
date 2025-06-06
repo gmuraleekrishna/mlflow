@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/8ec510d749954bf5bb1b888d0849584b/artifacts
+end_time: 1749180230678
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 8ec510d749954bf5bb1b888d0849584b
+run_name: indecisive-fox-96
+run_uuid: 8ec510d749954bf5bb1b888d0849584b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180230561
+status: 3
+tags: []
+user_id: thor

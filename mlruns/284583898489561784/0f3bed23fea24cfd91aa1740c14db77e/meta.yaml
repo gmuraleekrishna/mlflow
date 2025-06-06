@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0f3bed23fea24cfd91aa1740c14db77e/artifacts
+end_time: 1749180180932
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0f3bed23fea24cfd91aa1740c14db77e
+run_name: gentle-quail-835
+run_uuid: 0f3bed23fea24cfd91aa1740c14db77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180180861
+status: 3
+tags: []
+user_id: thor

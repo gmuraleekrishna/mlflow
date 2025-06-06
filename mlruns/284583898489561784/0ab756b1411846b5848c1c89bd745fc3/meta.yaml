@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/0ab756b1411846b5848c1c89bd745fc3/artifacts
+end_time: 1749180214608
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 0ab756b1411846b5848c1c89bd745fc3
+run_name: delicate-newt-412
+run_uuid: 0ab756b1411846b5848c1c89bd745fc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180214483
+status: 3
+tags: []
+user_id: thor

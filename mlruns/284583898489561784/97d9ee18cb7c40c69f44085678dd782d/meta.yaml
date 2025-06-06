@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/284583898489561784/97d9ee18cb7c40c69f44085678dd782d/artifacts
+end_time: 1749180225384
+entry_point_name: ''
+experiment_id: '284583898489561784'
+lifecycle_stage: active
+run_id: 97d9ee18cb7c40c69f44085678dd782d
+run_name: adaptable-loon-94
+run_uuid: 97d9ee18cb7c40c69f44085678dd782d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749180225273
+status: 3
+tags: []
+user_id: thor
